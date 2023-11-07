@@ -3,5 +3,7 @@ An analysis of NHS appointment data and social media sentiment analysis of #heal
 
 This project was conducted as part of my participation to the LSE Data Analytics Career Accelerator programme.
 The repository contains the following files:
+  - Jupiter notebook with the analysis performed
+  - Ppt file with a summary of analysis outputs
 
 
